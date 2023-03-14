@@ -65,3 +65,4 @@ class RockPaperScissors:
                             ╚═╝░░╚═╝░╚════╝░░╚════╝░╚═╝░░╚═╝  ░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░╚═╝""")
                 print("You won this round!")
                 self.user_wins += 1
+                self.random_number = random.randint(0, 2)
