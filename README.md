@@ -9,13 +9,7 @@ Rock Paper Scissors is a game built on Python code, which runs in Heroku!
 ## Table of Content
 
 1. [How to play](#how-to-play)
-    1. [Owner objectives](#owner-objectives)
-    2. [User objectives](#user-objectives)
-2. [User Experience](#user-experience)
-    1. [First time users](#first-time-users)
-    2. [Returning Users](#returning-users)
-    3. [Target Audience](#target-audience)
-3. [Features](#features)
+2. [Features](#features)
     1. [Existing Features](#existing-features)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
@@ -44,48 +38,19 @@ Rock Paper Scissors is a game built on Python code, which runs in Heroku!
 
 Rock Paper Scissors is based around the old game that kids and adults play by using their hands to show which of the 3 they have chosen,
 
-it is a simple game in which rock beats scissors, paper beats rock & scissors beats paper. you can read more about it by [Clicking here](https://en.wikipedia.org/wiki/Rock_paper_scissors)
+it is a simple game in which rock beats scissors, paper beats rock & scissors beats paper. you can read more about it by [clicking here](https://en.wikipedia.org/wiki/Rock_paper_scissors)
 
-### User objectives
-- Finding a scout group for their child.
-- See a full list of age groups within the troop.
-- Find information about what those groups do.
-- Find the location of the scout den.
-- submit a form with their details.
-
-
-
-## User Experience
-### First Time users 
-1. First time users should be able to understand that we are a scout group located in Ballinteer.
-2. First time users should be able to find what age groups we look after.
-3. First time users should be able to find our location.
-4. First time users should be able to see which group meets at which time.
-5. First time users should be able to fill in a form with their details for a callback from leaders.
-
-### Returning Users
-1. Returning users should be able to find the location of the scout den.
-2. Returning users should be able to check the times that their group meets at.
-3. Returning users should be able to check the day that their group meets at.
-
- 
-
-### Target Audience
-- People looking for something new for their kids that isnt sport.
-- People looking to find information on ballinteer scouts.
-- People trying to find our location.
 
 ## Features 
 
-The Website contains 3 pages with 8 features
-
 ### Existing Features
 
-- __Navigation Bar__
+- __Random computer choice generator__
 
-  - The navigation bar is featured on all three pages. It is identical on each and is set to be sticky for easier navigation throughout the site.
-  - The navigation bar contains the name of the website which is also a link back to the homepage. It also contains three links “Home” “Find us” & “Join the adventure!”. These links are responsive when hovered over to present an underline and overline that provides good feedback to the user that they are clicking the right place.
-
+  - The python code calls on the random function to randomly assign the computer 0,1,2 each refering to rock,paper or scissors.
+  - The player does not know which the computer has picked until they have entered their input.
+  - 
+![Nav Bar](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/Navbar.jpg)
 
 ![Nav Bar](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/Navbar.jpg)
 
