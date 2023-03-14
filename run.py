@@ -1,4 +1,5 @@
 import random
+import time
 
 class RockPaperScissors:
     def __init__(self):
