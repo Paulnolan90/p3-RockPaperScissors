@@ -184,3 +184,6 @@ class RockPaperScissors:
                                 ╚══════╝░╚════╝░╚═════╝░╚══════╝╚═╝░░╚═╝""")
                     break
                 self.random_number = random.randint(0, 2)
+
+        print("\nYour score: ", self.user_wins)
+        print("Computer's score: ", self.computer_wins)
