@@ -40,6 +40,7 @@ Rock Paper Scissors is based around the old game that kids and adults play by us
 
 it is a simple game in which rock beats scissors, paper beats rock & scissors beats paper. you can read more about it by [clicking here](https://en.wikipedia.org/wiki/Rock_paper_scissors)
 
+The aim of the game is to beat the computer to a score of 2!.
 
 ## Features 
 
@@ -64,6 +65,14 @@ it is a simple game in which rock beats scissors, paper beats rock & scissors be
 - If you have drawn you will get the following message.
 
 ![draw](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/draw.jpg)
+
+- If you have get to a score of 2 before the computer you win the game and receive the following message.
+
+![overallwin](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/overallwin.jpg)
+
+- If the computer gets to 2 before you then the message will pop up and end the game!
+
+![overalllose](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/overalllose.jpg)
 
 - __Home page big image__
 
