@@ -45,14 +45,15 @@ it is a simple game in which rock beats scissors, paper beats rock & scissors be
 
 ### Existing Features
 
-- __Random computer choice generator__
+- __Random computer number generator__
 
   - The python code calls on the random function to randomly assign the computer 0,1,2 each refering to rock,paper or scissors.
   - The player does not know which the computer has picked until they have entered their input.
-  - 
+  
 ![user input](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/userinput.jpg)
 
-![Nav Bar](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/Navbar.jpg)
+  - The game then checks your guess against the computers guess.
+  - If you have beaten the computer you get the following message.
 
 - __Home page big image__
 
