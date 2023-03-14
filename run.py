@@ -29,4 +29,6 @@ class RockPaperScissors:
             ╚█████╔╝╚█████╔╝██║░╚═╝░██║██║░░░░░╚██████╔╝░░░██║░░░███████╗██║░░██║░░░██╗░░
             ░╚════╝░░╚════╝░╚═╝░░░░░╚═╝╚═╝░░░░░░╚═════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝░░░╚═╝░░.\n\n""")
         while True:
-            user_input = input("Type Rock/Paper/Scissors or Q to quit: ").lower()       
+            user_input = input("Type Rock/Paper/Scissors or Q to quit: ").lower()   
+            if self.user_wins == 2:
+                break
