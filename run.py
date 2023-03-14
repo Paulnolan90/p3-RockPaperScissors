@@ -34,3 +34,5 @@ class RockPaperScissors:
                 break
             if self.computer_wins == 2:  # Creates a break after the computer gets to 2 wins so it doesnt go on for too long and get boring.
                 break
+            if user_input == "q":  # checks the user input to see if its q and then breaks the while loop.
+                break
