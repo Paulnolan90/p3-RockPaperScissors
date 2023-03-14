@@ -32,3 +32,5 @@ class RockPaperScissors:
             user_input = input("Type Rock/Paper/Scissors or Q to quit: ").lower()   
             if self.user_wins == 2:
                 break
+            if self.computer_wins == 2:  # Creates a break after the computer gets to 2 wins so it doesnt go on for too long and get boring.
+                break
