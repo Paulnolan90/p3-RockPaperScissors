@@ -50,7 +50,7 @@ it is a simple game in which rock beats scissors, paper beats rock & scissors be
   - The python code calls on the random function to randomly assign the computer 0,1,2 each refering to rock,paper or scissors.
   - The player does not know which the computer has picked until they have entered their input.
   - 
-![Nav Bar](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/Navbar.jpg)
+![user input](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/userinput.png)
 
 ![Nav Bar](https://github.com/Paulnolan90/p1-scoutinggroup/blob/main/assets/images/Navbar.jpg)
 
