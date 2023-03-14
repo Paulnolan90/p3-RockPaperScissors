@@ -30,7 +30,7 @@ class RockPaperScissors:
             ╚█████╔╝╚█████╔╝██║░╚═╝░██║██║░░░░░╚██████╔╝░░░██║░░░███████╗██║░░██║░░░██╗░░
             ░╚════╝░░╚════╝░╚═╝░░░░░╚═╝╚═╝░░░░░░╚═════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝░░░╚═╝░░.\n\n""")
         while True:
-            user_input = input("Type Rock/Paper/Scissors or Q to quit: ").lower()  # takes an input from the user and coverts to lowercase. 
+            user_input = input("Type Rock/Paper/Scissors or Q to quit:\n ").lower()  # takes an input from the user and coverts to lowercase. 
             if self.user_wins == 2:  # Creates a break after the user gets to 2 wins so it doesnt go on for too long and get boring.
                 break
             if self.computer_wins == 2:  # Creates a break after the computer gets to 2 wins so it doesnt go on for too long and get boring.
