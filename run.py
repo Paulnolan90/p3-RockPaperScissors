@@ -39,3 +39,4 @@ class RockPaperScissors:
             if user_input not in self.options:  # if the user enters anything that isnt rock/paper/scissors then it repeats the question.
                 continue
             computer_pick = self.options[self.random_number]
+            print("Computer picked", computer_pick + ".")
