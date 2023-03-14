@@ -187,3 +187,6 @@ class RockPaperScissors:
 
         print("\nYour score: ", self.user_wins)
         print("Computer's score: ", self.computer_wins)
+
+game = RockPaperScissors()
+game.play()
