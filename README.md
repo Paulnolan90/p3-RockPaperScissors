@@ -55,6 +55,16 @@ it is a simple game in which rock beats scissors, paper beats rock & scissors be
   - The game then checks your guess against the computers guess.
   - If you have beaten the computer you get the following message.
 
+![winner](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/win.jpg)
+
+ - If you have lost you will get the following message.
+
+![loser](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/lose.jpg)
+
+- If you have drawn you will get the following message.
+
+![draw](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/draw.jpg)
+
 - __Home page big image__
 
   - The home page displays an image of mountains, with an overlay of the Irish scouting logo with “115th Ballinteer” and “expect the unexpected!” text appearing slowly to grab the user’s attention.
