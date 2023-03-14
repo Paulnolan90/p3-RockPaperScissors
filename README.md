@@ -8,7 +8,7 @@ Rock Paper Scissors is a game built on Python code, which runs in Heroku!
 
 ## Table of Content
 
-1. [Project Goals](#project-goals)
+1. [How to play](#how-to-play)
     1. [Owner objectives](#owner-objectives)
     2. [User objectives](#user-objectives)
 2. [User Experience](#user-experience)
@@ -40,13 +40,11 @@ Rock Paper Scissors is a game built on Python code, which runs in Heroku!
     3. [Content](#content)
 
 
-## Project Goals 
+## How to play 
 
-### Owner objectives
-- Increase awarness of a scout group in Ballinteer.
-- Make it easier to share information with parents.
-- Provide a way for new parents to contact the group.
-- Provide information to new parents/kids on what we do.
+Rock Paper Scissors is based around the old game that kids and adults play by using their hands to show which of the 3 they have chosen,
+
+it is a simple game in which rock beats scissors, paper beats rock & scissors beats paper. you can read more about it by [Clicking here](https://en.wikipedia.org/wiki/Rock_paper_scissors)
 
 ### User objectives
 - Finding a scout group for their child.
