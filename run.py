@@ -36,3 +36,5 @@ class RockPaperScissors:
                 break
             if user_input == "q":  # checks the user input to see if its q and then breaks the while loop.
                 break
+            if user_input not in self.options:  # if the user enters anything that isnt rock/paper/scissors then it repeats the question.
+                continue
