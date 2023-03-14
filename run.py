@@ -40,3 +40,4 @@ class RockPaperScissors:
                 continue
             computer_pick = self.options[self.random_number]
             print("Computer picked", computer_pick + ".")
+            if user_input == "rock" and computer_pick == "scissors":
