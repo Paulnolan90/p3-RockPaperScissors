@@ -16,9 +16,8 @@ Rock Paper Scissors is a game built on Python code, which runs in Heroku!
     2. [Frameworks & Tools](#frameworks-and-tools)
 6. [Testing](#testing)
     1. [HTML Validation](#HTML-validation)
-    2. [CSS Validation](#CSS-validation)
-    3. [Device testing](#performing-tests-on-various-devices)
-    4. [Browser compatibility](#browser-compatability)
+    2. [Device testing](#performing-tests-on-various-devices)
+    3. [Browser compatibility](#browser-compatability)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
@@ -68,9 +67,8 @@ The aim of the game is to beat the computer to a score of 2!.
 ![overalllose](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/overalllose.jpg)
 
 - you cannot enter anything outside of "rock" "paper" "scissors" or "q" for quit. If you do the game will repeat the question.
-- your guesses are stoed in class instances.
+- your wins are stored in an instance variable.
 
-- 
 ## Technologies Used
 ### Languages
 
