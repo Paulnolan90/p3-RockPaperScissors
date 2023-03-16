@@ -140,8 +140,9 @@ How to:
 
 ## Credits 
 
-Code institute for the deployment terminal.
-https://www.youtube.com/watch?v=DLn3jOsNRVE&t=3450s - Basic code based on game two and then changed to be made better.
+- Code institute for the deployment terminal.
+
+- https://www.youtube.com/watch?v=DLn3jOsNRVE&t=3450s - Basic code based on game two and then changed to be made better.
 
 
 
