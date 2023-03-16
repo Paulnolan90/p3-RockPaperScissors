@@ -21,9 +21,7 @@ Rock Paper Scissors is a game built on Python code, which runs in Heroku!
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
-    1. [Media](#media)
-    2. [Code](#code)
-    3. [Content](#content)
+
 
 
 ## How to play 
@@ -141,10 +139,11 @@ How to:
 
 
 ## Credits 
+
 Code institute for the deployment terminal.
+https://www.youtube.com/watch?v=DLn3jOsNRVE&t=3450s - Basic code based on game two and then changed to be made better.
 
 
-### Code
 
 
 
