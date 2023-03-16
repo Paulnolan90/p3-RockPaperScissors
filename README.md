@@ -87,7 +87,11 @@ The aim of the game is to beat the computer to a score of 2!.
 ### Python Validation 
 
 ![pythontest](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/pythonlinter.jpg)
- 
+
+- No major issues in online testing.
+- i have played this game too many times to count in testing the outcomes and text returned.
+- tested in gitpod and in Heroku.
+
 ## Different Devices
 
 The game was tested on the following devices:
