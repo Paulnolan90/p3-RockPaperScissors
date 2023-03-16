@@ -126,11 +126,16 @@ The game was deployed using Heroku pages.
 
 How to: 
 
-  - clone codeinstitutes repository.
-  - Once in settings go to the "pages" page.
-  - Select "Deploy from Branch".
-  - Select "Main" and "root" in the branch options below.
-  - After a few minutes you will get a message saying "Your site is live at https://paulnolan90.github.io/p1-scoutinggroup/"
+  - Create a new app in Heroku.
+  - Name the app and select the location Europe.
+  - Go to settings tab and click add buildpack.
+  - Select python and nodejs.
+  - Go to deploy section.
+  - Select github and connect.
+  - Search for repository name and connect.
+  - Now click Deploy Branch.
+  - Wait a few moments as it builds the app.
+  - Eventually you can click on View, this will bring you to your deployed app.
 
 
 ## Credits 
