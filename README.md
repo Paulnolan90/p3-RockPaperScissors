@@ -15,7 +15,7 @@ Rock Paper Scissors is a game built on Python code, which runs in Heroku!
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-and-tools)
 6. [Testing](#testing)
-    1. [HTML Validation](#HTML-validation)
+    1. [Python Validation](#Python-validation)
     2. [Device testing](#performing-tests-on-various-devices)
     3. [Browser compatibility](#browser-compatability)
 8. [Bugs](#Bugs)
@@ -113,6 +113,12 @@ the game was run successfully on the following browsers:
 - When I finished the project in gitpod I had all of the print statments in ASCII which seemed to work ok in gitpod, this did not translate well to Heroku so I had to go back to simple messages.
 
 ![pythontest](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/Ascii.jpg)
+
+
+Solved Bugs
+
+- When writing the code and testing i noti
+
 
 ## Deployment
 
