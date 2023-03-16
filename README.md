@@ -112,6 +112,8 @@ the game was run successfully on the following browsers:
 
 - When I finished the project in gitpod I had all of the print statments in ASCII which seemed to work ok in gitpod, this did not translate well to Heroku so I had to go back to simple messages.
 
+![pythontest](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/Ascii.jpg)
+
 ## Deployment
 
 The game was deployed using Heroku pages.
