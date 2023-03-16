@@ -85,7 +85,9 @@ The aim of the game is to beat the computer to a score of 2!.
 ## Testing 
 
 ### Python Validation 
-- 
+
+![pythontest](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/pythonlinter.jpg)
+ 
 ## Different Devices
 
 The game was tested on the following devices:
@@ -119,16 +121,10 @@ How to:
 
 
 ## Credits 
-
+Code institute for the deployment terminal.
 
 
 ### Code
-
-In order of appearance:
-- For the text fading in i read through and implemented this tutrial [HubSpot](https://blog.hubspot.com/website/css-fade-in#text-transition)
-- To add the google map to my Find us page I read through this tutorial [Uni of Maine](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
-- For the sign up form I rewatched the tutorial Love Running done by Code institute. I also reused the CSS to zoom out the main image, but I reversed this as it suited my image more [Code Institute](https://code-institute-org.github.io/love-running-2.0/index.html)
-- To make and add the Favicon  I went through this tutorial [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-add-a-favicon-to-your-website-with-html)
 
 
 
