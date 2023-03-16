@@ -51,6 +51,7 @@ The aim of the game is to beat the computer to a score of 2!.
 ![winner](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/win.jpg)
 
  - If you have lost you will get the following message.
+ - Your wins are stored in an instance variable.
 
 ![loser](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/lose.jpg)
 
@@ -67,7 +68,7 @@ The aim of the game is to beat the computer to a score of 2!.
 ![overalllose](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/overalllose.jpg)
 
 - you cannot enter anything outside of "rock" "paper" "scissors" or "q" for quit. If you do the game will repeat the question.
-- your wins are stored in an instance variable.
+- The computers wins are stored in an instance variable.
 
 ## Technologies Used
 ### Languages
