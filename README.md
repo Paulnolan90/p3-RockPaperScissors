@@ -110,14 +110,16 @@ the game was run successfully on the following browsers:
 
 ### Bugs
 
+Solved Bugs
+
+
 - When I finished the project in gitpod I had all of the print statments in ASCII which seemed to work ok in gitpod, this did not translate well to Heroku so I had to go back to simple messages.
 
 ![pythontest](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/Ascii.jpg)
 
+- When writing the code and testing i noticed that after every wrong guess it would not change the computers guess. This was because the loop was not starting again when asking for your next guess, so I added the self.random_number = random.randint(0, 2) to run after every user input this way you the next guess would be random again.
 
-Solved Bugs
-
-- When writing the code and testing i noti
+- I added a max score for the computer or user to 2, the game was taking way too long with a higher score as there can be draws.
 
 
 ## Deployment
