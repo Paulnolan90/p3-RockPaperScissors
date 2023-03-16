@@ -89,8 +89,8 @@ The aim of the game is to beat the computer to a score of 2!.
 ![pythontest](https://raw.githubusercontent.com/Paulnolan90/p3-RockPaperScissors/main/assets/pythonlinter.jpg)
 
 - No major issues in online testing.
-- i have played this game too many times to count in testing the outcomes and text returned.
-- tested in gitpod and in Heroku.
+- I have played this game too many times to count in testing the outcomes and text returned.
+- Tested in gitpod and in Heroku.
 
 ## Different Devices
 
@@ -110,6 +110,7 @@ the game was run successfully on the following browsers:
 
 ### Bugs
 
+- When I finished the project in gitpod I had all of the print statments in ASCII which seemed to work ok in gitpod, this did not translate well to Heroku so I had to go back to simple messages.
 
 ## Deployment
 
